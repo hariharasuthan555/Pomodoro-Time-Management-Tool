@@ -1,4 +1,4 @@
-# My Tkinter GUI Application - Pomodoro Time Management Toolkit
+# Tkinter GUI Application - Pomodoro Time Management Toolkit
 
 ### Pomodoro Technique
 
