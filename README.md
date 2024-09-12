@@ -6,7 +6,7 @@ The Pomodoro Technique is a time management method created by Francesco Cirillo.
 
 ## Note
 
-This is demo version. Timings has been shortened and timer has been fast-forwarded for demonstration purpose
+This is demo version. Timings has been shortened for demonstration purpose
 
 ## Overview
 
